@@ -1,0 +1,4 @@
+#ignore .vcxproj files
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
